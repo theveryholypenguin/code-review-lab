@@ -7,12 +7,14 @@ Changes Made accordingly
 
 
 
-Contributor
+Contributors - Pushkar and Anika
 
 
 
-* Navya Chaudhary (@navyaachy) - Jaanvi conflict version
+* Navya Chaudhary (@navyaachy) - Pushkar conflict version
 feature/twishashukla26-edit
 * \- Twisha Shukla, she add name here for assignment purpose.
 ** Shivam Kore (@shivam-core)
 
+
+* Jaanvi Rai (@jaanvirai1313)
