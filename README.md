@@ -11,7 +11,7 @@ Contributors - Anika
 
 
 
-* Navya Chaudhary (@navyaachy)
+* Navya Chaudhary (@navyaachy) - Pushkar conflict version
 feature/twishashukla26-edit
 * \- Twisha Shukla, she add name here for assignment purpose.
 ** Shivam Kore (@shivam-core)
