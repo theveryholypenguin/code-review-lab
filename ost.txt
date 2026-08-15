@@ -1,0 +1,6 @@
+ost
+
+cat  /etc/os-release  
+ONE COMMAND to view file in one path (os release is a file)
+
+ROOT DIR MEANS BASIC DIR
